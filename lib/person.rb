@@ -1,10 +1,10 @@
 class Person 
   
-  def bark 
-    puts "Woof!"
+  def talk
+    
   end 
   
-  def sit 
-    puts "The Dog is sitting"
+  def walk 
+    
   end 
 end 
